@@ -16,8 +16,8 @@ package cmd
 
 import (
 	"fmt"
-	"fann/go-fann"
 	"github.com/spf13/cobra"
+	"github.com/kirsoft/fann/go-fann"
 )
 
 // robotCmd represents the robot command

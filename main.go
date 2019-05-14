@@ -14,7 +14,7 @@
 
 package main
 
-import "fann/cmd"
+import "github.com/kirsoft/fann/cmd"
 
 func main() {
 	cmd.Execute()
